@@ -1,7 +1,7 @@
 0x0A. Configuration management
 ==============================
 
--   By Faith Ujunwa
+-   By Faith Ujunwa Ozoanieke
 -   Weight: 1
 
 Background Context
