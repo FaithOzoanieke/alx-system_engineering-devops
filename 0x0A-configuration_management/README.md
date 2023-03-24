@@ -1,7 +1,7 @@
 0x0A. Configuration management
 ==============================
 
--   By Sylvain Kalache
+-   By Faith Ujunwa
 -   Weight: 1
 
 Background Context
