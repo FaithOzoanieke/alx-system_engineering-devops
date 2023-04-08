@@ -1,8 +1,7 @@
 0x10. HTTPS SSL
 ===============
 
-Concepts
---------
+By: Faith Ujunwa Ozoanieke
 
 *For this project, students are expected to look at these concepts:*
 
