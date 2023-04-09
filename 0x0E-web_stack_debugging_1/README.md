@@ -1,6 +1,6 @@
-# 0x0E Web stack debugging #1 :wrench:
+# 0x0E Web stack debugging
 
-> Debugging is the process of finding and fixing errors in software that prevents it from running correctly. As you become a more advanced programmer and an industry engineer, you will learn how to use debugging tools such as gdb or built-in tools that IDEs have. However, it’s important to understand the concepts and processes of debugging manually. This project covers a second part of the optimal framework and blueprint for debugging web stack (remote containers this scenario) bugs
+Finding and correcting flaws in software that prevent it from functioning properly is a process known as debugging. You will learn how to use debugging tools like gdb or built-in tools that come with IDEs as you develop as an advanced programmer and an industry engineer. But it's crucial to comprehend the ideas and procedures involved in manual debugging. The second section of the ideal framework and blueprint for identifying flaws in the web stack (in this case, remote containers) is covered in this project.
 
 Challenge:
 
@@ -14,11 +14,6 @@ Using your debugging skills, find out what’s keeping your Ubuntu container’s
 
 
 ## Results :chart_with_upwards_trend:
-
-| Filename |
-| ------ |
-| [0-nginx_likes_port_80](./0-nginx_likes_port_80)|
-| [1-debugging_made_short](./1-debugging_made_short)|
 
 ## Additional info :construction:
 
@@ -45,11 +40,11 @@ Using your debugging skills, find out what’s keeping your Ubuntu container’s
 <!
 ### Try It On Your Machine :computer:
 ```bash
-git clone https://github.com/sammykingx/alx-system_engineering-devops.git
+git clone https://github.com/FaithOzoanieke/alx-system_engineering-devops/tree/main/0x0E-web_stack_debugging_1
 cd 0x0E-web_stack_debugging_1
-cat FILENAME
+cat FILE-NAME
 curl 0:80
-cat -e FILENAME | wc -l
-curl 0:80
+cat -e FIL-ENAME | wc -l
+curl 0 : 80
 ```
 -->
