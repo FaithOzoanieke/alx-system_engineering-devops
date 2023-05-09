@@ -6,7 +6,4 @@ In this project, I practice with the [Reddit API](https://www.reddit.com/dev/api
 - How to use an API with pagination
 - How to parse JSON results from an API
 - How to make a recursive API call
-- How to sort a dictionary by value
-
-## Resources
-+ [Reddit API](https://www.reddit.com/dev/api/)
+- How to sort a dictionary 
